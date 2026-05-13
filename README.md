@@ -72,4 +72,7 @@ $ cat stack.json
 *Debug what others gave up on.*
 *Ship anyway."*
 
+Note: My original GitHub account was github.com/Divyam6969, but it was hacked and I no longer have access to it.
 </div>
+
+
