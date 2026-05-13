@@ -63,48 +63,8 @@ $ cat stack.json
   "ml":              ["FastAI", "scikit-learn", "Pandas", "NumPy"]
 }
 ```
-
 ---
 
-```bash
-$ ls ~/projects
-```
-
-**ActEarly** · `FlutterFlow` `Firebase` `Gemini API` `SQLite`
-> Cross-platform child milestone tracker for Canadian hospitals. Gemini chatbot for real-time caregiver support, dual storage architecture, privacy-compliant cloud infra.
-
-**Pneumonia Detection System** · `Python` `FastAI` `ResNet50` `Flask`
-> ResNet50 trained to classify chest X-rays — Normal / Bacterial / Viral Pneumonia. Flask interface built for medical practitioners with no ML background required.
-
----
-
-```bash
-$ cat achievements.log
-```
-
-| Platform / Event | Achievement |
-|---|---|
-| CodeChef | 5★ · 2000+ rating |
-| CodeChef Starters 178 | **Global Rank 3** |
-| CodeChef Starters 176 | Global Rank 11 |
-| Kaggle | Master · Global Rank < 200 |
-| LeetCode | 500+ problems solved |
-| ICPC 2023 | Amritapuri Regionalist |
-| Amadeus AIRogithm Geeks | Rank 1 (twice) among 300+ |
-| Mitacs Globalink | Selected among India's top 300 |
-| NTSE | Stage 1 Qualifier |
-| Thapar University | Merit Scholarship — 2 consecutive years |
-
----
-
-```bash
-$ cat education.txt
-```
-
-**Thapar Institute of Engineering and Technology** · Patiala
-B.E. Computer Engineering · 2021 – 2025 · CGPA **9.1 / 10**
-
----
 
 <div align="center">
 
